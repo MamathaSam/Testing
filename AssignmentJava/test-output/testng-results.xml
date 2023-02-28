@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-12T18:23:30 IST" name="Default suite" finished-at="2023-02-12T18:23:48 IST" duration-ms="18564">
+    <groups>
+    </groups>
+    <test started-at="2023-02-12T18:23:30 IST" name="Default test" finished-at="2023-02-12T18:23:48 IST" duration-ms="18564">
+      <class name="MamathaSamala.ExtentReports.ExtentReportTest">
+        <test-method is-config="true" signature="extentReport()[pri:0, instance:MamathaSamala.ExtentReports.ExtentReportTest@459e9125]" started-at="2023-02-12T18:23:30 IST" name="extentReport" finished-at="2023-02-12T18:23:30 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReport -->
+        <test-method signature="getTheTitle()[pri:0, instance:MamathaSamala.ExtentReports.ExtentReportTest@459e9125]" started-at="2023-02-12T18:23:30 IST" name="getTheTitle" finished-at="2023-02-12T18:23:48 IST" duration-ms="18031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheTitle -->
+      </class> <!-- MamathaSamala.ExtentReports.ExtentReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
